@@ -122,8 +122,8 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 | ![Star](https://img.shields.io/github/stars/khassibi/fourier-neural-operator.svg?style=social&label=Star) <br> [**Fourier neural operator for parametric partial differential equations**](https://arxiv.org/pdf/2010.08895) | ICLR  | 2021 | [Github](https://github.com/khassibi/fourier-neural-operator) | [Video](https://zongyi-li.github.io/blog/2020/fourier-pde/) |
 | ![Star](https://img.shields.io/github/stars/alasdairtran/fourierflow.svg?style=social&label=Star) <br> [**Factorized fourier neural operators**](https://arxiv.org/abs/2111.13802) | ICLR  | 2023 | [Github](https://github.com/alasdairtran/fourierflow) | - |
 | ![Star](https://img.shields.io/github/stars/microsoft/cliffordlayers) <br> [**Clifford neural layers for pde modeling**](https://arxiv.org/pdf/2209.04934) | ICLR  | 2023 | [Github](https://github.com/microsoft/cliffordlayers/tree/main) | - |
-| [**Geometry-informed neural operator for large-scale 3d pdes.**](https://arxiv.org/abs/2309.00583) | NeurIPS  | 2023 | -| - |
-
+| <br> [**Geometry-informed neural operator for large-scale 3d pdes.**](https://arxiv.org/abs/2309.00583) | NeurIPS  | 2023 | -| - |
+| <br> [**Physics-informed neural operator for learning partial differential equations**](https://dl.acm.org/doi/full/10.1145/3648506) | ACM/IMS Journal of Data Science  | 2025 | - | - | 
 ---
 
 ## Physics-driven Surrogates
@@ -256,7 +256,7 @@ This review explores the recent advancements in enhancing Computational Fluid Dy
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |![Star](https://img.shields.io/github/stars/jhhuangchloe/DiffusionPDE.svg?style=social&label=Star)<br> [**DiffusionPDE: Generative PDE-Solving under Partial Observation**](https://neurips.cc/virtual/2024/poster/92980) <br> | NeurIPS 2024 | 2024 | [Github](https://github.com/jhhuangchloe/DiffusionPDE) | - |
-
+|![Star](https://img.shields.io/github/stars/tum-pbs/dgn4cfd.svg?style=social&label=Star)<br> [**Learning Distributions of Complex Fluid Simulations with Diffusion Graph Networks**](https://openreview.net/pdf?id=uKZdlihDDn) <br> | ICLR 2025 | 2025 | [Github](https://github.com/tum-pbs/dgn4cfd) | - |
 ---
 
 
